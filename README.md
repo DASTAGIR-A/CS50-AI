@@ -2,7 +2,7 @@
 
 <!-- 1. Harvard Logo -->
 <p align="center">
-  <img src="static/WhatsApp%20Image%202025-09-07%20at%2012.29.06.jpeg" alt="Harvard Logo" width="200"/>
+  <img src="static/WhatsApp%20Image%202025-09-07%20at%2012.29.06.jpeg" alt="Harvard Logo" width="400"/>
 </p>
 
 <!-- 2. Course Explanation -->
